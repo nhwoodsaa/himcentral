@@ -1,0 +1,5 @@
+/* Removes the Site Info in footer */
+.site-info {display: none}
+/* Removes the published by in header */
+.singular .entry-meta.below-title {display: none;}
+
